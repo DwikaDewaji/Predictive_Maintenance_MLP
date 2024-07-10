@@ -1,4 +1,4 @@
-# Predictive_Maintenance_MLP
+# Predictive Maintenance Using MLP
 Predict multiclass classification failure type of machine using Multi Layer Perceptron
 
 ## List of contents
@@ -15,19 +15,19 @@ This project focuses on creating a machine learning model to classify type of ma
 ## Features
 - **Collecting Data**: Collect data from github.
 - **Pre-Processing Data**: Resizinh data for accurate analysis.
-- **Image Classification**: Using NN models to classify images.
+- **Image Classification**: Using MLP models to classify data.
 
 
 
 ## Usability
-1. Run a RPS_Classification script to classify images:
+1. Run a MultilayerMachine script to classify images:
     ```sh
-    python RPS_Classification.ipynb
+    python MultilayerMachine.ipynb
     ```
 
 
 ## Project Structure
-- `RPS_Classification.ipynb`: Preprocessing and predicting output. 
+- `MultilayerMachine.ipynb`: Preprocessing and predicting output. 
 - `requirements.txt`: List of required dependencies.
 
 ## Contribution
